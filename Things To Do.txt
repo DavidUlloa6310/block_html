@@ -1,0 +1,6 @@
+Things to do:
+
+Make site with basic HTML and CSS. Should be a section where blocks are (should be images). Should be section where an HTML file is embeded (try <embed> tag). 
+Style file with HTML.
+
+Learn Javscript. Be able to manipulate image (drag and dropping). Be able to write HTML file with javascript. Create system of each individual block represents code, which is then inserted in the HTML file.
